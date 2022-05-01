@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/life-expectancy-predictor-app/static/css/main.12900856.css",
+    "main.js": "/life-expectancy-predictor-app/static/js/main.a971b9ff.js",
+    "static/js/787.7f5b30e7.chunk.js": "/life-expectancy-predictor-app/static/js/787.7f5b30e7.chunk.js",
+    "index.html": "/life-expectancy-predictor-app/index.html",
+    "main.12900856.css.map": "/life-expectancy-predictor-app/static/css/main.12900856.css.map",
+    "main.a971b9ff.js.map": "/life-expectancy-predictor-app/static/js/main.a971b9ff.js.map",
+    "787.7f5b30e7.chunk.js.map": "/life-expectancy-predictor-app/static/js/787.7f5b30e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12900856.css",
+    "static/js/main.a971b9ff.js"
+  ]
+}
